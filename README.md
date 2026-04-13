@@ -18,3 +18,5 @@ Install dependencies using pip.
 
 ## Description
 Command Github commands in development of projects 
+
+## Requirements
