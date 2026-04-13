@@ -12,3 +12,6 @@ Run the script:
 ## Files
 - bikeshare.py: main script
 - new_york_city.csv: sample dataset
+
+## Installation
+Install dependencies using pip.
